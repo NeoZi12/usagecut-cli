@@ -14,8 +14,7 @@ npx usagecut
 
 No install. No account. No API key. Runs entirely on your machine.
 
-<!-- TODO(neo): drop a 3s GIF of the report reveal here, hosted at an absolute URL so it renders on npm too, e.g. https://www.usagecut.com/og/report.gif -->
-<!-- ![UsageCut report](https://www.usagecut.com/report-demo.gif) -->
+![UsageCut demo - npx usagecut scans your Claude Code setup, shows the waste, and cuts it](https://raw.githubusercontent.com/NeoZi12/usagecut-cli/main/assets/demo.gif)
 
 </div>
 
